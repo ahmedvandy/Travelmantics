@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textmarginstandard">16dp</dimen>
+    <dimen name="title_large">24sp</dimen>
+    <dimen name="tv_price">18sp</dimen>
+</resources>
